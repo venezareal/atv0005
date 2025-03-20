@@ -1,0 +1,17 @@
+header {
+    display: flex;
+    background: blueviolet;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+header #logo img {
+    width: 100px;
+}
+
+header nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
